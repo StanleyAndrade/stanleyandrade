@@ -1,4 +1,4 @@
-## Hi there, my name is Stanley Andrade 👋
+## Hi there, my name is Stanley Andrade, a Full-Stack Developer 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
