@@ -1,4 +1,4 @@
-## Hi there, my name is Stanley Andrade, a Full-Stack Developer 👋
+## Hi there, my name is Stanley Andrade, a Softeware Developer | Software Engineer 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
