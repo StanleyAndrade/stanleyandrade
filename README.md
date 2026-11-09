@@ -33,9 +33,8 @@ I'm used to **owning projects end to end** — gathering requirements, designing
 
 | Project | What it is | Status |
 |---|---|---|
-| **Sonélia** | Multi-tenant SaaS for multidisciplinary clinics — scheduling, patient management and medical records | 💳 Live, paying customers |
+| **Sonelia** | Multi-tenant SaaS for multidisciplinary clinics — scheduling, patient management and medical records | 💳 Live, paying customers |
 | **Server Fall** | Server monitoring product sold by subscription | 💳 Live, paying customers |
-| **Lolita Bronze** | Business management system for a beauty salon — scheduling, clients and daily operations. Sole developer | 🟢 In production, maintained |
 
 **Also:** deployed and maintain production servers on **AWS, OVHcloud and Hostinger**, set up **CI/CD with GitHub Actions**, and I'm familiar with the **Google Play and App Store** publishing process.
 
@@ -46,15 +45,16 @@ I'm used to **owning projects end to end** — gathering requirements, designing
 **Languages**
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 **Backend & Databases**
 
 <p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />
@@ -65,9 +65,9 @@ I'm used to **owning projects end to end** — gathering requirements, designing
 **Frontend & Mobile**
 
 <p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
