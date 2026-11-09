@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stanleyandrade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:stanleyandrade@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:stanleyandrade95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brazil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to%20work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
 </p>
@@ -100,7 +100,7 @@ I'm used to **owning projects end to end** — gathering requirements, designing
 I'm open to **internship and junior opportunities**, especially with **Java**. Feel free to reach out:
 
 - 💼 LinkedIn: [linkedin.com/in/stanleyandrade](https://www.linkedin.com/in/stanleyandrade/)
-- 📧 Email: [stanleyandrade@gmail.com](mailto:stanleyandrade@gmail.com)
+- 📧 Email: [stanleyandrade95@gmail.com](mailto:stanleyandrade95@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,50:2c5364,100:0f2027&height=110&section=footer" alt="footer" />
